@@ -1,0 +1,450 @@
+[
+  {
+    "regionId": "AA",
+    "description": "Armed Forces Americas",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "AE",
+    "description": "Armed Forces (Others)",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "AK",
+    "description": "Alaska",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "AL",
+    "description": "Alabama",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "AP",
+    "description": "Armed Forces Pacific",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "AR",
+    "description": "Arkansas",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "AS",
+    "description": "American Samoa",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "AU",
+    "description": "Armed Forces (Europe)",
+    "active": false,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "AZ",
+    "description": "Arizona",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "CA",
+    "description": "California",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "CO",
+    "description": "Colorado",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "CT",
+    "description": "Connecticut",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "DC",
+    "description": "District of Columbia",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "DE",
+    "description": "Delaware",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "FL",
+    "description": "Florida",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "FM",
+    "description": "Federated States of Micronesia",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "GA",
+    "description": "Georgia",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "GU",
+    "description": "Guam",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "HI",
+    "description": "Hawaii",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "IA",
+    "description": "Iowa",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "ID",
+    "description": "Idaho",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "IL",
+    "description": "Illinois",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "IN",
+    "description": "Indiana",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "KS",
+    "description": "Kansas",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "KY",
+    "description": "Kentucky",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "LA",
+    "description": "Louisiana",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "MA",
+    "description": "Massachusetts",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "MD",
+    "description": "Maryland",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "ME",
+    "description": "Maine",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "MH",
+    "description": "Marshall Islands",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "MI",
+    "description": "Michigan",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "MN",
+    "description": "Minnesota",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "MO",
+    "description": "Missouri",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "MP",
+    "description": "Northern Mariana Islands",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "MS",
+    "description": "Mississippi",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "MT",
+    "description": "Montana",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "NC",
+    "description": "North Carolina",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "ND",
+    "description": "North Dakota",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "NE",
+    "description": "Nebraska",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "NH",
+    "description": "New Hampshire",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "NJ",
+    "description": "New Jersey",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "NM",
+    "description": "New Mexico",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "NV",
+    "description": "Nevada",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "NY",
+    "description": "New York",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "OH",
+    "description": "Ohio",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "OK",
+    "description": "Oklahoma",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "OR",
+    "description": "Oregon",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "PA",
+    "description": "Pennsylvania",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "PR",
+    "description": "Puerto Rico",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "PW",
+    "description": "Palau",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "RI",
+    "description": "Rhode Island",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "SC",
+    "description": "South Carolina",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "SD",
+    "description": "South Dakota",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "TN",
+    "description": "Tennessee",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "TX",
+    "description": "Texas",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "UM",
+    "description": "U.S Minor Outlying Islands",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "UT",
+    "description": "Utah",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "VA",
+    "description": "Virginia",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "VI",
+    "description": "Virgin Islands",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "VT",
+    "description": "Vermont",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "WA",
+    "description": "Washington",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "WI",
+    "description": "Wisconsin",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "WV",
+    "description": "West Virginia",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  },
+  {
+    "regionId": "WY",
+    "description": "Wyoming",
+    "active": true,
+    "sflyCountryCode": "USA",
+    "countryCode": null
+  }
+]
